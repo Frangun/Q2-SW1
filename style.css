@@ -1,0 +1,37 @@
+body {
+	background-image: url(m4.png);
+	background-size:cover;
+	text-align: center;
+	padding:10px;
+	font-family: Arvo;
+}
+
+img {
+	height: 120px;
+	padding: 5px;
+}
+
+footer {
+	color:#EF7A85;
+	padding:5px;
+}
+
+.highlight {
+	background-color: aliceblue;
+}
+
+.container {
+	background-color: aliceblue;
+	border-radius: 8px;
+	padding:10px;
+	color: #EF7A85;
+	opacity:0.8;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.table {
+	table-layout: fixed;
+}
+
+
+
